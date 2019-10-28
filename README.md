@@ -2,12 +2,17 @@
 Il s'agit d'une solution web de gestion de rendez-vous dans un hôpital, basée sur la POO en PHP et du Javascript, avec l'utilisation aussi de quelques frameworks.
 
 
-# Demo (de la partie Front-End)
+# Demo (de la partie Front-End uniquement)
 [**DEMO**](https://demo-wergui-yaram-rdv.netlify.com)<br>
 Une démo de la partie Front-End.
 
 
-## Procesus du projet sous Trello
+## Processus du projet sous Trello
+[**VOIR**](https://trello.com/b/jueqT8iK)
+![processus](https://github.com/daooda-galsen-dev/wergui-yaram-RDV/blob/master/view/files/Gestion-RDV-Wergui-Yaram-Trello.png)
+
+
+## Maquette du l'application
 
 
 ## Architecture du projet
